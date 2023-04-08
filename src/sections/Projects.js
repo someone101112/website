@@ -13,9 +13,9 @@ function Projects(props) {
         <>
             <h1 className="heading">Projects & Work</h1>
             <p className="description">
-                I develop websites based on <Color code="#89F1FF">React.js</Color> or <Color code="#ABD7FF">PHP</Color>, using <Color code="#FF5B27">HTML</Color>, <Color code="#67C8FF">CSS</Color> and <Color code="#FFEA7B">JavaScript</Color>.
+                I develop websites using <Color code="#FF5B27">HTML</Color>, <Color code="#67C8FF">CSS</Color> and <Color code="#FFEA7B">JavaScript</Color>.
                 <br />
-                My applications are primarily written in <Color code="#53A2FF">TypeScript</Color>.
+                My applications are primarily written in <Color code="#53A2FF">JavaScript</Color>.
             </p>
             <div className="projects">
                 <Project title="Roles Bot" url="https://roles.bot" button="roles.bot" bg="#865EDF" size="7" img={require('../assets/projects/roles-bot.svg').default}>
